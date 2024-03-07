@@ -1,0 +1,51 @@
+.message
+{
+    font-family: Poppins;
+    background-image: linear-gradient(to right , cyan, white);
+    color : black; 
+    padding : 3vh;
+    margin : 0.5vh;
+    width : 50%;
+    display: flex;
+    border-radius: 5vh;
+    flex-direction: column;
+    text-align: left;
+    align-items: flex-start;
+    margin-bottom: 1vh;
+}
+
+.header-data
+{
+    display: flex;
+    align-items: flex-start;
+    align-content: flex-start;
+    font-family: Poppins;
+    margin-top : 1vh;
+    margin-bottom: 1vh;
+    font-size: 4vh;
+    text-align: left;
+}
+
+.meta-wrapper
+{
+    font-family: Ubuntu;
+    color : rgb(59, 57, 57);
+    display: flex;
+    flex-direction: row;
+    justify-content :space-between;
+    width: 100%;
+}
+
+
+.message-wrapper
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.message-class
+{
+    align-items: left;
+    margin-bottom: 3vh;
+}

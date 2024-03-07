@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+}
+a
+{
+    text-decoration: none;
+}
+
+.fallback
+{
+    font-family: Poppins;
+    margin-top: 4vh;
+    color : red;
+    font-size: 4vh;
+}
+body {
+    margin: 0;
+    background-image: linear-gradient(to right, rgb(49, 44, 44) , rgb(232, 228, 228));
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+
+}
+button:active {
+    border-style: outset;
+  }
+

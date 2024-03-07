@@ -1,0 +1,98 @@
+#input-box
+{
+    padding : 3vh;
+    padding-left: 40vh;
+    padding-right : 40vh;
+    font-family : Poppins;
+    font-size : 14px;
+    overflow: visible !important;
+    width : 40vh;
+}
+#input-container
+{
+    margin-top: 1vh;
+}
+#input-button
+{
+    padding : 3vh;
+    padding-left: 8vh;
+    padding-right : 8vh;
+    background-color: rgb(16, 68, 138);
+    font-family: Poppins;
+    font-size: 15px;
+    color : white;
+    border : none;
+
+}
+#input-button:hover
+{
+    opacity: 50%;
+}
+
+#form-wrapper
+{
+display: flex;
+justify-content: center;
+}
+#data-placeholder
+{
+ padding-bottom: 1vh;
+}
+
+#board-placeholder
+{
+    margin-top: 2vh;
+}
+.board-wrapper
+{
+    margin-top: 0.5vh;
+}
+#message
+{
+    max-width: 100%;
+    min-width: 100%;
+    height : 27vh;
+    padding-top: 1vh;
+    padding-bottom : 1vh;
+    text-align: left;
+}
+#create-submit-button
+{
+    margin-left: 45%;
+    padding : 2vh;
+    background-color: rgb(37, 37, 181);
+    font-family: Poppins;
+    border-radius: 20%;
+    border-color: transparent;
+    color : white ;
+    padding-left: 3vh;
+    padding-right: 3vh;
+
+}
+
+.link
+{
+    color : white
+}
+#create-submit-button:hover
+{
+    background-color: green
+}
+
+#form
+{
+    font-family: Poppins;
+    border : transparent;
+    padding : 2vh;
+    border-radius: 2vh;
+    margin-top: 3vh;
+    color : black;
+    background-color: black;
+    background-image: linear-gradient(to right , cyan, white);
+    width: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+}
+
+

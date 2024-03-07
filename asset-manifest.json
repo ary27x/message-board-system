@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/message-board-system/static/css/main.f60e63b0.css",
+    "main.js": "/message-board-system/static/js/main.cefcdb40.js",
+    "index.html": "/message-board-system/index.html",
+    "main.f60e63b0.css.map": "/message-board-system/static/css/main.f60e63b0.css.map",
+    "main.cefcdb40.js.map": "/message-board-system/static/js/main.cefcdb40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f60e63b0.css",
+    "static/js/main.cefcdb40.js"
+  ]
+}

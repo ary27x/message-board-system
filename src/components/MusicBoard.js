@@ -3,7 +3,7 @@ import "../styles/Message.css"
 export default function MusicBoard(props)
 {
     const requiredData = [];
-    const emptyMessage =<h3>Tere is nothing here , go create something !</h3>
+    const emptyMessage =<h3>There is nothing here , go create something !</h3>
 
     for (let i = 0 ; i < props.data.length ; i++)
     {
